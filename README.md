@@ -8,7 +8,7 @@ A pure Ruby implementation of SHA3.
 Install it from the command line:
 
 ```bash
-gem install sha3-pure-ruby
+gem install keccak-pure-ruby
 ```
 
 Or execute `bundle` after adding this line to your app's Gemfile:

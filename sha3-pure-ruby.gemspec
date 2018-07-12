@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include? lib
 require 'sha3-pure-ruby/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'sha3-pure-ruby'
+  spec.name          = 'keccak-pure-ruby'
   spec.version       = SHA3::VERSION
   spec.authors       = ['havenwood']
   spec.email         = ['shannonskipper@gmail.com']

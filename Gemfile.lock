@@ -1,14 +1,21 @@
 PATH
   remote: .
   specs:
-    sha3-pure-ruby (0.0.1)
+    keccak-pure-ruby (0.1.1)
 
 GEM
   remote: https://rubygems.org/
   specs:
+    minitest (5.11.3)
+    rake (12.3.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  sha3-pure-ruby!
+  keccak-pure-ruby!
+  minitest
+  rake
+
+BUNDLED WITH
+   1.16.1
